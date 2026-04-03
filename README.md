@@ -96,16 +96,15 @@ The dashboard highlights that while the business is experiencing strong sales gr
 
 ## 🚀 Future Improvements
 
-* Build the same dashboard using **Power BI for advanced visualization**
 * Add **forecasting models** for sales prediction
 * Perform **cohort analysis** for deeper customer insights
-* Automate data refresh using Power Query
+
 
 ---
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
+[](https://github.com/nilu822/superstore-data-and-customer-analysis/blob/main/Screenshot%202026-04-03%20202028.png)
 
 ---
 
@@ -115,6 +114,4 @@ The dashboard highlights that while the business is experiencing strong sales gr
 
 ---
 
-## ⭐ If you like this project
 
-Give it a star ⭐ and feel free to fork or contribute!
